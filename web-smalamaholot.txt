@@ -1,6 +1,5 @@
 web smalamaholot
 konsisten membuat web sma lamaholot
-konsisten dalam pengembangannya
 berbagi dalam pengelolaannya
 mengundang para developer untuk bergabung
 terus update dengan sofware terbaru
